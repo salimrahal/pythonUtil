@@ -1,0 +1,25 @@
+.divTable {
+    display: table;
+    }
+
+.divRow  {
+    display: table-row;
+    }
+
+.divCell{
+    display: table-cell;
+    }
+    
+.formlabel { 
+    display: block;
+    margin-top: 0.3em !important;/* override the margin and control spaces between cells*/
+    margin-bottom: 0.3em !important;/* override the margin*/
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+}
+
+.minimizeWidth {
+    width: 40% !important;
+    padding: 2px 40px 2px 0px !important;
+}
