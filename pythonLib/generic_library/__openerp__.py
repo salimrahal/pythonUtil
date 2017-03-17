@@ -10,7 +10,7 @@
      
     """,
 
-    'author': "salim.rahal@jcyared.com",
+    'author': "salim.rahal",
     'website': "www.jcyared.com",
 
     'category': 'Purchase',
